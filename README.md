@@ -12,6 +12,6 @@ Thanks for checking out our project!
 
 Contributor GitHub links:
 
-Josie Beaudoin: https://github.com/jtbeaudoin
-Billy Tran: https://github.com/btctrl
+Josie Beaudoin: https://github.com/jtbeaudoin ||
+Billy Tran: https://github.com/btctrl ||
 Gareth Leake: https://github.com/Klutch27
